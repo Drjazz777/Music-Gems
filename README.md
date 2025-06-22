@@ -14,7 +14,7 @@ Whether you're a beginner or a seasoned beatmaker, this repo gives you a **flexi
 - Designed to evolve as your sound evolves
 
 ---
-
+ 
 ## 📚 Table of Contents
 
 ### 🏗️ Foundation
